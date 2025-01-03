@@ -1,3 +1,9 @@
+## [2025-01-02](https://github.com/MichaelZhang-Navex/pr_review_test/pull/3)
+
+### Added
+- Enhanced dbt project with additional configurations and example models.
+- Included documentation updates for dbt setup and usage.
+
 ## [2025-01-02](https://github.com/MichaelZhang-Navex/pr_review_test/pull/2)
 
 ### Added
